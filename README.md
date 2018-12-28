@@ -1,2 +1,2 @@
 # PHP
-Aplicación 'Hello world' usando PHP. PHP-FPM y NGINX
+Aplicación 'Hello world' usando PHP. PHP-FPM y NGINX. Usando Docker.
